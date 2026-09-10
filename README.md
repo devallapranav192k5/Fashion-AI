@@ -332,21 +332,44 @@ ANALYTICS
 
 Each layer is independently replaceable, allowing future virtual try-on models or analytics infrastructure to be integrated without redesigning the entire system.
 
-👨‍💻 Project
+---
 
-Fashion-AI
+## 👨‍💻 Project
+
+**Fashion-AI**
 
 Developed during internship operations at:
 
-Raritone Private Limited
+**Raritone Private Limited**
 
 Repository:
 
-https://github.com/devallapranav192k5/Fashion-AI
+:contentReference[oaicite:0]{index=0}
 
 <p align="center">
-⚡ From Fashion Data to AI-Powered Experiences.
 
-Built with Python • PyTorch • FastAPI • Computer Vision
+### ⚡ From Fashion Data to AI-Powered Experiences.
 
-</p> ```
+**Built with Python • PyTorch • FastAPI • Computer Vision**
+
+</p>---
+
+## 👨‍💻 Project
+
+**Fashion-AI**
+
+Developed during internship operations at:
+
+**Raritone Private Limited**
+
+Repository:
+
+:contentReference[oaicite:0]{index=0}
+
+<p align="center">
+
+### ⚡ From Fashion Data to AI-Powered Experiences.
+
+**Built with Python • PyTorch • FastAPI • Computer Vision**
+
+</p>
